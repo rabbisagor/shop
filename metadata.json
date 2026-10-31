@@ -1,0 +1,6 @@
+{
+  "name": "আমার মুদি দোকান (Amar Grocery Manager)",
+  "description": "একটি আধুনিক ও সম্পূর্ণ মুদি দোকান পরিচালনা, হিসাবরক্ষণ ও ব্যবসা শেখার বাংলা ওয়েব অ্যাপ্লিকেশন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
